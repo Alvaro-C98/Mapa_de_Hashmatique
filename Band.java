@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Set;
 
-class Map{
+class Band{
     public static void main(String [] args){
         HashMap<String, String> trackList = new HashMap<String, String>();
         trackList.put("Hangar 18","Possibly I've seen too much Hangar 18, I know too much");
